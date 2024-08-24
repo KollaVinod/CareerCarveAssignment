@@ -7,7 +7,6 @@ SETUP INSTALLATIONS:
 1)git clone <repository-url>
 2)cd CareerCarveProject Assignment
 
-
 For backend:
 1)Open a terminal
 2) cd backend
