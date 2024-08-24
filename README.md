@@ -4,7 +4,6 @@ CareerCarve provides placement training to MBA students through various activiti
 Features
 Student Features
 Home Screen
-
 Overview of available services.
 Quick access to schedule a 1x1 session.
 Notifications about upcoming sessions or new features.
